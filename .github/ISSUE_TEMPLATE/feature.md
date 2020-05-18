@@ -1,10 +1,1 @@
----
-name: Enhancement Request
-about: Suggest an enhancement for this extension
-labels: kind/enhancement
-
----
-
-**What would you like to be added**:
-
-**Why is this needed**:
+../../vendor/github.com/gardener/gardener/.github/ISSUE_TEMPLATE/feature.md
